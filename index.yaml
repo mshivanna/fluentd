@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  fluentd:
+  - apiVersion: v2
+    appVersion: v1.16.2
+    created: "2025-01-27T16:09:41.769358-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 940277f159e60ee1186d7becc26d4b5c3f3bd67531bd79f89a96972942b20cd3
+    home: https://www.fluentd.org/
+    icon: https://www.fluentd.org/images/miscellany/fluentd-logo_2x.png
+    maintainers:
+    - email: eduardo@treasure-data.com
+      name: edsiper
+    - email: diogo.filipe.tomas.guerra@cern.ch
+      name: dioguerra
+    name: fluentd
+    sources:
+    - https://github.com/fluent/fluentd/
+    - https://github.com/fluent/fluentd-kubernetes-daemonset
+    urls:
+    - https://mshivanna.github.io/fluentd/fluentd-0.5.2.tgz
+    version: 0.5.2
+generated: "2025-01-27T16:09:41.767088-05:00"
